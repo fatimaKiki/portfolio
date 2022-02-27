@@ -1,0 +1,1 @@
+<h1>Je suis solidarite page</h1>
