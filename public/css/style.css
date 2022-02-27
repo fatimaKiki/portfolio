@@ -494,11 +494,7 @@ input::placeholder {
     }
 
     .absolute {
-        display: flex;
-        position: absolute;
-        z-index: 6000;
-        bottom: 0;
-        left: 45%;
+        display: none;
     }
 
     .blob_blue_light {
