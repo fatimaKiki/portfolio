@@ -142,7 +142,7 @@ canvas {
     width: 100%;
     animation: text 10s 1;
     opacity: 1;
-    font-size: 3.2rem;
+    font-size: 2.8rem;
 }
 
 @keyframes text {
@@ -492,6 +492,24 @@ input::placeholder {
         left: -150px;
         bottom: -30px;
     }
+
+    .absolute {
+        display: flex;
+        position: absolute;
+        z-index: 6000;
+        bottom: 0;
+        left: 45%;
+    }
+
+    .blob_blue_light {
+        width: 70vmax;
+    }
+
+    .blob_orange {
+        width: 100vmax;
+        bottom: -475px;
+        right: 50px;
+    }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -572,6 +590,7 @@ input::placeholder {
         height: 300px !important;
         position: absolute;
     }
+
 
     .blob_title {
         width: 20%;
