@@ -26,7 +26,7 @@ if (isset($_POST['form_nom'], $_POST['form_prenom'])) {
 <div class="container-fluid qui blue ">
     <div class="row justify-content-center">
         <div class="offset-2 col text_qui">
-            <h1>Contacter</h1>
+            <h1>Contact</h1>
             <img class="blob_title" src="public/images/blob_title.svg" alt="">
         </div>
         <div class="plante2" id="animation_container">

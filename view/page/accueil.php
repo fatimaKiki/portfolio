@@ -15,7 +15,7 @@
                 </div>
                 <div class="text_header text-center">
                     <p class="text1 layer" data-speed="-5 ">Fatima El Harraoui</p>
-                    <p class="text2 layer" data-speed="-2">Frontend developer junior</p>
+                    <p class="text2 layer" data-speed="-2">Junior Frontend Developer </p>
                 </div>
                 <div class=" btn_accueil text-center">
                     <a href="public/images/CV.pdf" class="bouton_accueil">Voir mon CV</a>

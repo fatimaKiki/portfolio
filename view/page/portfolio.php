@@ -14,7 +14,7 @@ $page = 'portfolio';
         <div class="masonry">
 
             <div class="mItem">
-                <a href="?section=solidarite"><img class="image" src="public/images/soli.jpg">
+                <a href=""><img class="image" src="public/images/soli.jpg">
                     <div class="overlay">
                         <div class="text">
                             <h2>Projet Solidarité connectée</h2>
@@ -25,17 +25,19 @@ $page = 'portfolio';
             </div>
 
             <div class="mItem">
-                <img class="image" src="public/images/fatima.png">
-                <div class="overlay">
-                    <div class="text">
-                        <h2>Illustration "Summer 2021"</h2><span> Réalisée avec Illustrator</span>
+                <a href="public/images/fatima.png" target="_blank">
+                    <img class="image" src="public/images/fatima.png">
+                    <div class="overlay">
+                        <div class="text">
+                            <h2>Illustration "Summer 2021"</h2><span> Réalisée avec Illustrator</span>
+                        </div>
                     </div>
-                </div>
+                </a>
             </div>
 
 
             <div class="mItem">
-                <a href="https://github.com/fatimaKiki/hackathon-quizz-musical">
+                <a href="https://github.com/fatimaKiki/hackathon-quizz-musical" target="_blank">
                     <img class="image" src="public/images/hackathon.jpg">
                     <div class="overlay">
                         <div class="text">
